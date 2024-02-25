@@ -1,0 +1,1 @@
+df <- data.frame(student_name = "Rakesh", status = "fail")
